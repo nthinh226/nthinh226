@@ -84,8 +84,6 @@ Tran Ngoc Thinh. I'm from Viet Nam. I'm a newbie to the programming world & work
      <br />
      <a href="https://github.com/PremChapagain">PremChapagain</a>
   </td>
-		
-		  </tr>
 </table>
 <!-- FOLLOWER-LIST:END -->
 
