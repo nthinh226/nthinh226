@@ -39,7 +39,7 @@ Tran Ngoc Thinh. I'm from Viet Nam. I'm a newbie to the programming world & work
 
 ## 🏃‍♂️ Github Streak
 
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Phong-Kaster&theme=radical)](https://github.com/DenverCoder1/github-readme-streak-stats)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nthinh226&theme=radical)](https://github.com/DenverCoder1/github-readme-streak-stats)
 ## 🌟 Github Stats
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
@@ -51,7 +51,7 @@ Tran Ngoc Thinh. I'm from Viet Nam. I'm a newbie to the programming world & work
   
 ## 📊 Contribution Graph
  
-  [![Phong Kaster's github activity graph](https://activity-graph.herokuapp.com/graph?username=Phong-Kaster&theme=redical&custom_title=Shining%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  [![Ngoc Thinh's github activity graph](https://activity-graph.herokuapp.com/graph?username=nthinh226&theme=redical&custom_title=Shining%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ## 🌎 Connect with me:
 <p align="left">
 
