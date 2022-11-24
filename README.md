@@ -13,23 +13,18 @@ Tran Ngoc Thinh. I'm from Viet Nam. I'm a newbie to the programming world & work
 - Thank you for being here. God bless you, whoever you are
 ## 👋 About Me
 
-- 🏡 I was born and grown up in **[the city of Red Phoenix-Flower](https://vi.wikipedia.org/wiki/H%E1%BA%A3i_Ph%C3%B2ng)**
+- 🏡 I was born and grown up in **[Binh Dinh](https://vi.wikipedia.org/wiki/B%C3%ACnh_%C4%90%E1%BB%8Bnh)**
 
-- 👨‍🎓 I’m currently learning Software Technology
+- 👨‍🎓 I’m currently learning Software Developer 
 
 - 👨‍🏫 My major field is building server-side
 
 - 👯 I’m looking to collaborate on OpenSource Projects
 
-- 👨‍💻 All of my projects are available at **[here](https://github.com/Phong-Kaster?tab=repositories)**
+- 👨‍💻 All of my projects are available at **[here](https://github.com/nthinh226?tab=repositories)**
 
-- 📫 How to reach me **phongkaster@gmail.com**
+- 📫 How to reach me **ngocthinh1126@gmail.com**
 
-- 🦈 **[Zig & Sharko](https://www.youtube.com/channel/UCcKJJuOe2tOqgrKw0Gks-sw)** is my favorite cartoon movie
-
-- 🦢 **[Swan Lake](https://www.youtube.com/watch?v=KTRnuoVp2HM)** is the classical symphony that I love
-
-- 💖 **[Jar Of Hearts](https://www.youtube.com/watch?v=8v_4O44sfjM)**, **[My Heart Will Go On](https://www.youtube.com/watch?v=IAuRoAUV19o)** are my favorite love songs
 
 ## 🚀 Languages and Tools:
 
@@ -45,8 +40,8 @@ Tran Ngoc Thinh. I'm from Viet Nam. I'm a newbie to the programming world & work
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
   <br/>
-    <a href="#"><img alt="#" src="https://github-readme-stats.vercel.app/api?username=Phong-Kaster&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" /></a>
-    <a href="#"><img alt="#" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phong-Kaster&langs_count=8&count_private=true&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" /></a>
+    <a href="#"><img alt="#" src="https://github-readme-stats.vercel.app/api?username=nthinh226&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" /></a>
+    <a href="#"><img alt="#" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nthinh226&langs_count=8&count_private=true&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   
 ## 📊 Contribution Graph
