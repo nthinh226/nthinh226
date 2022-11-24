@@ -2,9 +2,9 @@
 
 
 
-# Phong Kaster
+# Ngọc Thịnh
 -  Hi ! My name is
-Nguyen Thanh Phong. I'm from Viet Nam. I'm a newbie to the programming world & working as a newbie developer.
+Tran Ngoc Thinh. I'm from Viet Nam. I'm a newbie to the programming world & working as a newbie developer.
 
 - Nice to meet you 😚. Probably we are not even living in the same country. We look different. We speak different languages. Maybe we are from entirely different generations. We are just complete strangers.
 
@@ -33,24 +33,9 @@ Nguyen Thanh Phong. I'm from Viet Nam. I'm a newbie to the programming world & w
 
 ## 🚀 Languages and Tools:
 
-<p align="left">
-    <b>Note:</b> Languages and tools which are included below,are only these programming languages & tools I have been and are doing so that they doesn't reflect experience or skill level.</br>
-    <a href="https://devdocs.io/cpp/" name="c++" ><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></a>
-    <a href="https://docs.microsoft.com/en-us/sql/sql-server/?view=sql-server-ver15" name="SQL-Server" ><img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/></a>
-    <a href="https://docs.oracle.com/en/java/" name="java" ><img src="https://img.icons8.com/nolan/64/java-coffee-cup-logo.png"/></a>
-    <a href="https://www.w3schools.com/html/html_intro.asp" name="html"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" name="css"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" name="javascript"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
-    <a href="https://code.visualstudio.com/" name="visual-studio-code"><img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png"/></a>
-    <a style="padding-right:8px;" href="https://nodejs.org" name="nodejs"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a>
-    <a href="https://expressjs.com" name="express"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-    <a href="https://www.mongodb.com/" name="mongodb"><img src="https://img.icons8.com/color/48/000000/mongodb.png"/></a>   
-    <a style="padding-right:8px;" href="https://en.wikipedia.org/wiki/NoSQL" name="noSQL"><img src="https://img.icons8.com/fluent/50/000000/server.png"/></a>
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-    <a href="https://github.com/" name="github"><img src="https://img.icons8.com/color/48/000000/github--v1.png"/></a>
-    <a href="https://docs.microsoft.com/en-us/powershell/" name="windows-powershell"><img src="https://img.icons8.com/color/48/000000/powershell.png"/></a>
-    
-</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+
 
 ## 🏃‍♂️ Github Streak
 
@@ -70,12 +55,12 @@ Nguyen Thanh Phong. I'm from Viet Nam. I'm a newbie to the programming world & w
 ## 🌎 Connect with me:
 <p align="left">
 
-<a href = "https://github.com/Phong-Kaster"><img src="https://img.icons8.com/fluent/48/000000/github.png"/></a>
-<a href = "https://www.facebook.com/PhongxKaster"><img src="https://img.icons8.com/color/48/000000/facebook-new.png"/></a>
-<a href = "https://www.instagram.com/phongkaster/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://phong-kaster.github.io/Portfolio/"><img src="https://img.icons8.com/fluent/48/000000/resume-website.png"/></a>
-<a href = "mailto: phongkaster@gmail.com"><img src="https://img.icons8.com/color/48/000000/apple-mail.png"/></a>
-<a href = "https://www.youtube.com/channel/UCFUhd4YHr6XNe39SkuO4Jug"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+<a href = "https://github.com/nthinh226"><img src="https://img.icons8.com/fluent/48/000000/github.png"/></a>
+<a href = "https://www.facebook.com/nt.thinh226"><img src="https://img.icons8.com/color/48/000000/facebook-new.png"/></a>
+<a href = "https://www.instagram.com/ngocthinh_tran/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = ""><img src="https://img.icons8.com/fluent/48/000000/resume-website.png"/></a>
+<a href = "mailto: ngocthinh1126@gmail.com"><img src="https://img.icons8.com/color/48/000000/apple-mail.png"/></a>
+<a href = "https://www.youtube.com/channel/UC1Yv9QHRLqka95Ydna8maxw"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 </p>
 
 ## 🪐 Lastest Followers
@@ -85,144 +70,21 @@ Nguyen Thanh Phong. I'm from Viet Nam. I'm a newbie to the programming world & w
   <tr>
 
 <td align="center">
-     <a href="https://github.com/danglequocbao001">
-       <img src="https://avatars.githubusercontent.com/u/56766274?v=4" width="100px;" alt="danglequocbao001"/>
+     <a href="https://github.com/phungphuong355">
+       <img src="https://avatars.githubusercontent.com/u/100830297?v=4" width="100px;" alt="phungphuong355"/>
      </a>
      <br />
-     <a href="https://github.com/danglequocbao001">danglequocbao001</a>
+     <a href="https://github.com/phungphuong355">phungphuong355</a>
   </td>
 		
 <td align="center">
-     <a href="https://github.com/LamNhu1102">
-       <img src="https://avatars.githubusercontent.com/u/58131185?v=4" width="100px;" alt="LamNhu1102"/>
+     <a href="https://github.com/PremChapagain">
+       <img src="https://avatars.githubusercontent.com/u/47587012?v=4" width="100px;" alt="PremChapagain"/>
      </a>
      <br />
-     <a href="https://github.com/LamNhu1102">LamNhu1102</a>
+     <a href="https://github.com/PremChapagain">PremChapagain</a>
   </td>
 		
-<td align="center">
-     <a href="https://github.com/dompham21">
-       <img src="https://avatars.githubusercontent.com/u/63381043?v=4" width="100px;" alt="dompham21"/>
-     </a>
-     <br />
-     <a href="https://github.com/dompham21">dompham21</a>
-  </td>
-		
-<td align="center">
-     <a href="https://github.com/EricNguyen1206">
-       <img src="https://avatars.githubusercontent.com/u/63888253?v=4" width="100px;" alt="EricNguyen1206"/>
-     </a>
-     <br />
-     <a href="https://github.com/EricNguyen1206">EricNguyen1206</a>
-  </td>
-		
-<td align="center">
-     <a href="https://github.com/hh-Nghiep">
-       <img src="https://avatars.githubusercontent.com/u/71450931?v=4" width="100px;" alt="hh-Nghiep"/>
-     </a>
-     <br />
-     <a href="https://github.com/hh-Nghiep">hh-Nghiep</a>
-  </td>
-		
-<td align="center">
-     <a href="https://github.com/liemcn6">
-       <img src="https://avatars.githubusercontent.com/u/73791497?v=4" width="100px;" alt="liemcn6"/>
-     </a>
-     <br />
-     <a href="https://github.com/liemcn6">liemcn6</a>
-  </td>
-		
-<td align="center">
-     <a href="https://github.com/akirahani">
-       <img src="https://avatars.githubusercontent.com/u/79439944?v=4" width="100px;" alt="akirahani"/>
-     </a>
-     <br />
-     <a href="https://github.com/akirahani">akirahani</a>
-  </td>
-		  </tr>
-  <tr>
-
-<td align="center">
-     <a href="https://github.com/trinhnhi1306">
-       <img src="https://avatars.githubusercontent.com/u/80469378?v=4" width="100px;" alt="trinhnhi1306"/>
-     </a>
-     <br />
-     <a href="https://github.com/trinhnhi1306">trinhnhi1306</a>
-  </td>
-		
-<td align="center">
-     <a href="https://github.com/TuanBui-archdemon">
-       <img src="https://avatars.githubusercontent.com/u/81811541?v=4" width="100px;" alt="TuanBui-archdemon"/>
-     </a>
-     <br />
-     <a href="https://github.com/TuanBui-archdemon">TuanBui-archdemon</a>
-  </td>
-		
-<td align="center">
-     <a href="https://github.com/vokimson">
-       <img src="https://avatars.githubusercontent.com/u/84184229?v=4" width="100px;" alt="vokimson"/>
-     </a>
-     <br />
-     <a href="https://github.com/vokimson">vokimson</a>
-  </td>
-		
-<td align="center">
-     <a href="https://github.com/TruongDayx2">
-       <img src="https://avatars.githubusercontent.com/u/88103040?v=4" width="100px;" alt="TruongDayx2"/>
-     </a>
-     <br />
-     <a href="https://github.com/TruongDayx2">TruongDayx2</a>
-  </td>
-		
-<td align="center">
-     <a href="https://github.com/hoangtien2k3">
-       <img src="https://avatars.githubusercontent.com/u/91842746?v=4" width="100px;" alt="hoangtien2k3"/>
-     </a>
-     <br />
-     <a href="https://github.com/hoangtien2k3">hoangtien2k3</a>
-  </td>
-		
-<td align="center">
-     <a href="https://github.com/huyhp1999">
-       <img src="https://avatars.githubusercontent.com/u/98534341?v=4" width="100px;" alt="huyhp1999"/>
-     </a>
-     <br />
-     <a href="https://github.com/huyhp1999">huyhp1999</a>
-  </td>
-		
-<td align="center">
-     <a href="https://github.com/huychuong23">
-       <img src="https://avatars.githubusercontent.com/u/101076115?v=4" width="100px;" alt="huychuong23"/>
-     </a>
-     <br />
-     <a href="https://github.com/huychuong23">huychuong23</a>
-  </td>
-		  </tr>
-  <tr>
-
-<td align="center">
-     <a href="https://github.com/truongquangkhai99">
-       <img src="https://avatars.githubusercontent.com/u/102689302?v=4" width="100px;" alt="truongquangkhai99"/>
-     </a>
-     <br />
-     <a href="https://github.com/truongquangkhai99">truongquangkhai99</a>
-  </td>
-		
-<td align="center">
-     <a href="https://github.com/nnnggghhhiiiaaa123">
-       <img src="https://avatars.githubusercontent.com/u/103884461?v=4" width="100px;" alt="nnnggghhhiiiaaa123"/>
-     </a>
-     <br />
-     <a href="https://github.com/nnnggghhhiiiaaa123">nnnggghhhiiiaaa123</a>
-  </td>
-		
-<td align="center">
-     <a href="https://github.com/PhongKaster">
-       <img src="https://avatars.githubusercontent.com/u/108731234?v=4" width="100px;" alt="PhongKaster"/>
-     </a>
-     <br />
-     <a href="https://github.com/PhongKaster">PhongKaster</a>
-  </td>
 		  </tr>
 </table>
 <!-- FOLLOWER-LIST:END -->
