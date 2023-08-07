@@ -23,7 +23,7 @@ Tran Ngoc Thinh. I'm from Viet Nam. I'm a newbie to the programming world & work
 
 - 👨‍💻 All of my projects are available at **[here](https://github.com/nthinh226?tab=repositories)**
 
-- 📫 How to reach me **ngocthinh1126@gmail.com**
+- 📫 How to reach me **ngocthinh.work@gmail.com**
 
 
 ## 🚀 Languages and Tools:
