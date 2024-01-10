@@ -26,6 +26,8 @@ Tran Ngoc Thinh. I'm from Viet Nam. I'm a newbie to the programming world & work
 - 📫 How to reach me **ngocthinh.work@gmail.com**
 
 
+  <img align="right" alt="GIF" src="https://github.com/nthinh226/nthinh226/blob/main/assets/code.gif?raw=true" width="500" height="320" />
+  
 ## 🚀 Languages and Tools:
 
 <h3 align="left">Languages and Tools:</h3>
