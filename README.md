@@ -1,7 +1,3 @@
-![Easy Frontend banner](https://scontent.fsgn2-7.fna.fbcdn.net/v/t31.18172-8/27710285_2040953952844974_2933888543389295844_o.jpg?_nc_cat=100&ccb=1-7&_nc_sid=19026a&_nc_ohc=l2RhrB0bXM0AX9NNF-I&_nc_ht=scontent.fsgn2-7.fna&oh=00_AfCQPvozCL1lthy3B3b3-9qIcMOTWAVfaf2gcI40HoaApw&oe=63A7283A)
-
-
-
 # Ngọc Thịnh
 -  Hi ! My name is
 Tran Ngoc Thinh. I'm from Viet Nam. I'm a newbie to the programming world & working as a newbie developer.
